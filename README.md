@@ -54,8 +54,12 @@ Implement error handling and logging to capture any issues that may arise during
 
 If you need to regularly update the data pipeline, consider automating the process and scheduling it to run at specific intervals using tools like cron jobs or scheduling libraries in your programming language.
 
+___________________________________________________________________________________________________________________________________
 
-To run and test the code, you can follow these steps:
+LOCAL SETUP STEP
+___________________________________________________________________________________________________________________________________
+
+**To run and test the code, you can follow these steps:**
 
 1. Make sure you have Python and the required dependencies installed. If not, you can install them by running the
    following command in the terminal:
@@ -71,6 +75,13 @@ To run and test the code, you can follow these steps:
    This is the basic process to run and test the code. You can modify the subject_of_interest variable in main.py to
    pull data for different subjects. Additionally, you can add additional tests or assertions in the code to verify the
    correctness of the data processing and storage steps.
+   
+   
+ ___________________________________________________________________________________________________________________________________
+
+TERRAFORM SETUP STEP
+___________________________________________________________________________________________________________________________________
+
 
 To deploy a Python application on Amazon Web Services (AWS) using Terraform, you can follow these steps:
 
