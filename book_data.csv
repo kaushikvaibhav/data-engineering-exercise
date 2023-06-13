@@ -1,0 +1,3 @@
+book_key,title,edition_count,cover_id,cover_edition_key,lendinglibrary,printdisabled,lending_edition,lending_identifier,first_publish_year,status
+OL20730220W,Advanced Computing and Systems for Security,18,9415738,OL28035822M,False,False,,,2015,
+OL1894140W,Advances in artificial intelligence,13,2226698,OL966632M,False,True,OL22459384M,advancesinartifi0000unse,1996,borrow_available

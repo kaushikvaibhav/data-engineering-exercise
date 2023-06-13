@@ -1,0 +1,101 @@
+book_key,title,edition_count,cover_id,cover_edition_key,lendinglibrary,printdisabled,lending_edition,lending_identifier,first_publish_year,status
+OL1548597W,On the Nature of the Universe,412,566208.0,OL7870148M,False,True,OL24441773M,tlucretiuscaruso02lucr,1486,open
+OL33207850W,Kokuritsu Kokkai Toshokan shozō Meijiki kankō tosho maikuro-ban shūsei,156,,,False,False,,,1991,
+OL151632W,Physics,88,9459785.0,OL6739394M,False,True,OL6739394M,in.ernet.dli.2015.183610,1472,open
+OL1892624W,A Brief History of Time,86,7888152.0,OL2402980M,False,True,OL22724446M,briefhistoryofti0000hawk_n1e8,1988,borrow_unavailable
+OL16996964W,Progress in optics,62,2422105.0,OL10260533M,False,True,,,1963,private
+OL1161955W,Facundo,61,5781995.0,OL14007531M,False,True,OL6926513M,lifeinargentiner00sarmrich,1868,open
+OL1984422W,Physics for scientists and engineers,56,455532.0,OL7834688M,False,True,OL8127281M,physicsforscient01tipl,1990,borrow_available
+OL69399W,Novum organum,52,5584499.0,OL7059000M,False,True,OL7153025M,baconsnovumorgan00bacoiala,1620,open
+OL1088582W,The ABC of relativity,50,264558.0,OL3970849M,False,True,OL6683005M,abcofrelativity0000russ,1925,open
+OL20454641W,Advances in Chemical Physics,49,9120699.0,OL27679541M,False,False,,,2003,
+OL1214255W,Über die spezielle und die allgemeine Relativitätstheorie,49,8245344.0,OL18792406M,False,True,OL6628368M,relativityspeci00lawsgoog,1920,open
+OL14996328W,Fundamentals Of Electricity And Magnetism,47,5437853.0,OL9597135M,False,True,OL9672800M,motionforcesener0000unse,2001,borrow_available
+OL2538490W,Fundamentals of physics,45,1246724.0,OL3686327M,False,True,OL3972171M,fundamentalsofph0000hall_s2x4,1390,borrow_unavailable
+OL32337130W,Fu qiang zhai cong shu xu quan ji,44,,,False,False,,,1897,
+OL1439437W,Madame Curie,42,165073.0,OL9406148M,False,True,OL13538874M,madamecuriebiogr00curi,1937,borrow_available
+OL85336W,Physics,40,9153769.0,OL4410688M,False,True,OL4410688M,physicsprinciple00gian_2,1980,borrow_available
+OL65071W,Physics for scientists and engineers,40,5026455.0,OL9939825M,False,True,OL3030175M,physicsforscient02serw,1982,borrow_available
+OL4797379W,University physics,40,8349382.0,OL22456713M,False,True,OL25585844M,universityphysi00sear,1949,borrow_available
+OL1214254W,Mein Weltbild,39,5378174.0,OL17624097M,False,True,OL14119465M,worldasiseeit00eins,1934,borrow_available
+OL21448079W,Advances in Chemical Physics,39,10492080.0,OL30697710M,False,True,OL29315034M,advancesinchemic0160unse,2007,borrow_available
+OL12176120W,College physics,37,5375397.0,OL17436400M,False,True,OL17436400M,collegephysicsst00knig,2006,borrow_available
+OL1303751W,Représentation du monde chez l'enfant,35,7147659.0,OL13572364M,False,True,OL23627514M,childsconception01piag,1929,open
+OL1930743W,Conceptual physics,35,7065516.0,OL5704350M,False,True,OL5704350M,conceptualphysic00hewirich,1971,borrow_available
+OL3258255W,The Tao of Physics,35,6981251.0,OL20573594M,False,True,OL16966619M,taoofphysicsexpl0000capr,1975,borrow_available
+OL8206804W,How Things Work,33,305086.0,OL7617729M,False,False,,,1995,
+OL2166736W,Physics,33,1243495.0,OL3700050M,False,True,OL2050226M,physicscutn00cutn,1989,borrow_available
+OL1875878W,Physical science,33,3731196.0,OL358237M,False,True,OL9965001M,physicschaptersf0000till,1991,borrow_available
+OL1707826W,Six Ideas That Shaped Physics,32,63036.0,OL3560500M,False,True,OL22636877M,sixideasthatshap0000moor_b1h8,1998,borrow_available
+OL267906W,Kaplan SAT Subject Test,31,2796682.0,OL11794984M,False,True,OL7948615M,satsubjecttestph0000hend_t9f1,2006,borrow_available
+OL19809222W,Handbook of nanophysics,30,8605142.0,OL23980840M,False,True,,,2009,private
+OL4288870W,Einstein,30,474440.0,OL7948080M,False,True,OL35350555M,einsteinhislifeu0000isaa_n6b4,2007,borrow_available
+OL15231447W,Discorsi e dimostrazioni matematiche,30,314847.0,OL7650093M,False,True,OL6567029M,cu31924012322701,1638,open
+OL509004W,Solid State Physics,30,5032092.0,OL10072795M,False,True,,,1956,private
+OL285292W,Progress in Optics,30,5064775.0,OL10534292M,False,True,OL10534291M,progressinoptics0012unse,1970,borrow_available
+OL29784W,Physics,30,363896.0,OL7784473M,False,True,OL32133249M,physicsalgebratr0000hech_o4n0,1994,borrow_available
+OL788831W,The Dancing Wu Li Masters,29,1365548.0,OL9822875M,False,True,OL24204609M,dancingwulimaste00zuka,1979,borrow_available
+OL514630W,The Feynman lectures on physics,28,582109.0,OL3436360M,False,True,,,1963,private
+OL8226506W,Understanding Physics,28,13857898.0,OL9317259M,False,False,,,2001,
+OL3474169W,The Emperor's New Mind,27,7901942.0,OL18339648M,False,True,OL2190164M,emperorsnewmindc00penr,1989,borrow_available
+OL15312418W,Relativitätstheorie,27,9771318.0,OL6194572M,False,True,OL1525334M,teoriiaotnositel00eins,1921,open
+OL15898W,Genius,27,417398.0,OL1705271M,False,True,,,1992,private
+OL326412W,Physics and philosophy,27,10206873.0,OL6245617M,False,True,OL21165731M,physicsphilosoph0000heis_n9m9,1958,borrow_available
+OL1617308W,Smithsonian physical tables,26,5771377.0,OL7184222M,False,False,OL24179900M,cu31924024565982,1896,open
+OL19859793W,Advances in Chemical Physics,25,8666476.0,OL22840002M,False,True,,,1998,private
+OL1892618W,A Briefer History of Time,25,1283677.0,OL9563290M,False,True,OL18608660M,brieferhistoryof0000hawk,2005,private
+OL19886075W,Masters Theses in the Pure and Applied Sciences,25,8691685.0,OL27073062M,False,True,,,1975,private
+OL13120397W,Göttingische Gelehrte Anzeigen,24,6919412.0,OL20458845M,False,False,OL20435632M,gttingischegele41sachgoog,1808,open
+OL253947W,Natural philosophy,24,5762167.0,OL23410844M,False,False,OL23410843M,p1naturalphi61west00sanguoft,1861,open
+OL2284195W,Physics for scientists and engineers,24,4957585.0,OL3689825M,False,True,OL1737823M,physicsforscient0000fish,1992,borrow_available
+OL459996W,The Ambidextrous Universe,24,314475.0,OL7639715M,False,True,OL5920111M,ambidextrousuniv01gard,1964,borrow_available
+OL65070W,College physics,24,1063883.0,OL55535M,False,True,OL2061690M,collegephysics00serw,1985,borrow_available
+OL28993492W,Fundamentals of Physics,24,,,False,False,,,1996,
+OL1088574W,The Analysis of Matter,23,1601265.0,OL9319718M,False,True,OL6025779M,in.ernet.dli.2015.221533,1927,open
+OL8728847W,Rocks and Minerals (Tasks Cards),23,5144445.0,OL22120916M,False,True,OL22120916M,pendulums0000mars,1977,borrow_available
+OL104735W,Optice,22,5868249.0,OL6947578M,False,True,OL23323684M,opticksortreatis1718newt,1704,open
+OL1981622W,Essential university physics,22,10181082.0,OL28251299M,False,True,OL28178772M,essentialunivers0000wolf,1988,private
+OL1214251W,The evolution of physics,22,5407928.0,OL18288860M,False,True,OL22909951M,evolutionofphysi00eins,1938,borrow_available
+OL2538489W,Physics,22,304387.0,OL3940937M,False,True,,,1962,private
+OL1186505W,Science and civilisation in China,22,330592.0,OL7716137M,False,True,OL16529029M,zhongguokexuejis05need,1954,borrow_available
+OL1146972W,The Grammar of Science,21,1258104.0,OL3304915M,False,False,OL7094214M,grammarofscience00pearrich,1892,open
+OL1214252W,Out of my later years,21,6548967.0,OL6068707M,False,True,OL6068707M,outofmylateryear00eins,1950,borrow_available
+OL7938237W,Advances in Electronics and Electron Physics (Advances in Imaging and Electron Physics),21,5030394.0,OL10070213M,False,True,OL10070230M,advancesinelectr0000unse_m5x1,1984,borrow_available
+OL717865W,Moderne Physik,21,315079.0,OL2193166M,False,True,OL2193166M,atomicphysics00born,1933,borrow_available
+OL15367338W,The Grand Design,21,6565532.0,OL24353610M,False,True,OL26131534M,granddesign0000hawk_n8q2,1998,borrow_available
+OL13095971W,Abhandlungen der Königlichen Gesellschaft der Wissenschaften zu Göttingen,20,6086941.0,OL20513206M,False,False,OL20461323M,abhandlungen00naukgoog,1791,open
+OL263406W,Centrifugal force and gravitation,20,6337681.0,OL24159402M,False,False,OL24159402M,cihm_27563,1873,open
+OL7676797W,... Physikalische formelsammlung,20,,,False,False,,,1900,
+OL8643346W,A History of Science,20,5151372.0,OL11647396M,False,True,,,2002,private
+OL1136296W,"One, two, three ... infinity",19,310408.0,OL2042206M,False,True,,,1947,private
+OL10313152W,Compendious system of natural philosophy,19,,,False,False,,,1734,
+OL18734438W,First lessons on natural philosophy for children,19,,,False,False,,,1837,
+OL21037327W,Solid State Physics,19,10899532.0,OL32271392M,False,False,,,2011,
+OL514628W,What Do You Care What Other People Think?,19,1468422.0,OL8106715M,False,True,OL18330311M,whatdoyoucarewha0000feyn,1988,borrow_available
+OL21340300W,Problems and Solutions in Medical Physics,19,13492000.0,OL28928538M,False,False,,,2018,
+OL17095301W,What If?,19,9083979.0,OL26327044M,False,True,OL26327044M,isbn_9780544272996,1980,borrow_available
+OL271750W,The Character of Physical Law,19,96733.0,OL9304028M,False,True,OL22131297M,characterofphysi00feyn,1965,borrow_available
+OL5343793W,The metaphysical foundations of modern physical science,19,5410570.0,OL18316714M,False,True,OL23319248M,metaphysicalfoun00burtuoft,1923,open
+OL3079600W,Teorii︠a︡ poli︠a︡,18,8368567.0,OL5185796M,False,True,OL5849456M,classicaltheoryo0000land,1951,borrow_available
+OL3474173W,The Road to Reality,18,8427776.0,OL7699342M,False,True,OL7699342M,roadtorealitycom00penr_0,2004,borrow_available
+OL16940153W,"Advances in atomic, molecular, and optical physics",18,5030819.0,OL10069871M,False,True,,,1991,private
+OL46388W,Understanding Physics,18,9300871.0,OL26338999M,False,True,OL8133343M,understandingphy03isaa,1966,borrow_available
+OL1182888W,Tables of physical and chemical constants and some mathematical functions,17,5533240.0,OL3029595M,False,True,OL7064168M,tablesphysical00kayerich,1911,open
+OL24938809W,Conversations on natural philosophy,17,11854658.0,OL33149783M,False,False,OL33149783M,conversationsonn01marc,1820,open
+OL6813527W,"Voyage autour du monde … pendant les années 1817, 1818, 1819 et 1820",17,6711608.0,OL24613395M,False,False,,,1824,
+OL21013530W,Physics,17,12460125.0,OL35460451M,False,True,OL35460451M,studentstudyguid0000cutn_n9r8,2004,borrow_available
+OL24812851W,Advances in biological and medical physics,17,11585475.0,OL9739553M,False,True,OL9739553M,advancesinbiolog0015unse,1974,borrow_available
+OL118014W,The sciences,17,303889.0,OL6787146M,False,True,OL1413573M,sciencesintegrat0000tref_a3u8,1994,borrow_available
+OL158165W,Claudii Ptolemaei Opera quae exstant omnia,17,5758619.0,OL23288850M,False,False,OL7213279M,pt1claudiiptolemaei01ptoluoft,1898,open
+OL16025198W,Active physics,17,6724433.0,OL21573014M,False,True,OL21573014M,activephysics00eise,1998,borrow_available
+OL46356W,"The Electron, Proton and Neutron",17,10651145.0,OL31974027M,False,True,OL40233692M,understandingphy0003isaa,1966,borrow_available
+OL8229634W,Introductory Physics,16,12152907.0,OL22135737M,False,True,OL22135737M,introductoryphys0000toug,2004,borrow_available
+OL3079599W,Statisticheskai︠a︡ fizika,16,5299236.0,OL4739332M,False,True,OL6248063M,statisticalphysi05land,1938,borrow_available
+OL2762438W,Physics,16,1063554.0,OL706334M,False,True,OL1124382M,physicsworldview00kirk,1992,borrow_available
+OL29337808W,Physics,16,,,False,False,,,1971,
+OL326411W,Wandlungen in den Grundlagen der Naturwissenschaft,16,5287524.0,OL13538870M,False,False,,,1935,
+OL5458485W,Le opere di Galileo Galilei,16,9826062.0,OL260959M,False,False,OL20447234M,leoperedigalile01vivigoog,1842,open
+OL46355W,"Light, Magnetism, and Electricity",16,10655842.0,OL31980603M,False,True,OL40233691M,understandingphy0002isaa,1966,borrow_available
+OL19824648W,Advances in Nuclear Physics,16,8615131.0,OL27015178M,False,True,,,1978,private
+OL20594157W,5 Steps to a 5,16,9235165.0,OL27843345M,False,False,,,2018,
+OL4965104W,Traité de physique,15,5973526.0,OL16855490M,False,False,OL16855490M,jacobirohaultip00newtgoog,1671,open
